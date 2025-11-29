@@ -1,0 +1,10 @@
+torch
+torchvision
+faiss-cpu
+pandas
+numpy
+matplotlib
+tqdm
+opencv-python
+Pillow
+streamlit
