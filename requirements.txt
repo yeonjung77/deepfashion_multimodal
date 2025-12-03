@@ -4,7 +4,10 @@ faiss-cpu
 pandas
 numpy
 matplotlib
+seaborn
+scikit-learn
 tqdm
 opencv-python
 Pillow
 streamlit
+pillow

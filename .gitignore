@@ -8,7 +8,12 @@ data/
 .data/
 # C extensions
 *.so
-
+*.pt
+*.pdf
+*.pth
+*.pkl
+.vscode/
+output/
 # Distribution / packaging
 .Python
 build/
