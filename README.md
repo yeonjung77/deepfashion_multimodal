@@ -22,3 +22,4 @@ DeepFashion-MultiModal 데이터를 활용해 패션 이미지 Attribute 태깅(
 5. FAISS Retrieval — Query 이미지 기반 Top-K 스타일 유사 아이템 검색
 
 ##### Demo Image
+<img width="772" height="799" alt="스크린샷 2025-12-04 오후 3 30 13" src="https://github.com/user-attachments/assets/28772988-996a-4f75-8d87-7d5ab5523dd6" />
